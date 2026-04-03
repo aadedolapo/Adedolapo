@@ -1,4 +1,5 @@
 {
+  "homepage": "https://aadedolapo.github.io/Adedolapo",
   "name": "adedolapo-portfolio",
   "private": true,
   "version": "1.0.0",
@@ -7,7 +8,6 @@
     "dev": "vite",
     "build": "vite build",
     "preview": "vite preview",
-    "homepage": "https://aadedolapo.github.io/Adedolapo"
   },
   "dependencies": {
     "react": "^18.3.1",
